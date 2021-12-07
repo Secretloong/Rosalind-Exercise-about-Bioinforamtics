@@ -18,10 +18,15 @@ def Complementing2(): #by Ben Usman in Rosalind
 	st = 'AAAACCCGGT'
 	st = st.replace('A', 't').replace('T', 'a').replace('C', 'g').replace('G', 'c').upper()[::-1]
 	print (st)
+	#st[::-1] slicing
 
 def Complementing3(): #by JimHokanson in Rosalind
 	s = 'AAAACCCGGT'
 	print(s[::-1].translate(str.maketrans('ACGT', 'TGCA')))
+	#str.maketrans('ACGT', 'TGCA'): a dictionary mapping Unicode ordinals (integers)
+	#s.translate(given translation table)
 
 if __name__=='__main__':
+	Complementing()
+	Complementing2()
 	Complementing3()
