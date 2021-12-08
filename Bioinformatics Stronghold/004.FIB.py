@@ -8,7 +8,7 @@ def FibonacciRabbits(n,k):
 			populations.append(populations[i-1]+(populations[i-2]*k))
 	print (populations[n-1])
 
-def fib(n, k): #by Kit Burschka on Rosalind
+def fib(n, k): #by Kit Burschka in Rosalind
     a, b = 1, 1
     for i in range(2, n):
         a, b = b, k*a + b
