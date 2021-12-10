@@ -1,2 +1,5 @@
 # rosalind-exercise
- try to record answers for https://rosalind.info/problems/list-view/ 
+ 
+ Try to record answers for [Rosalind](https://rosalind.info/problems/list-view/)
+ 
+ Welcome to exchange the experience of coding!
