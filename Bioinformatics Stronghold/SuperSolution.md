@@ -9,3 +9,7 @@ I found there were many awesome solutions on Rosalind. I will list problems with
 	+ **classification count**
 - 014.LCSM.py 
 	+ **binary search**
+- 015.LIA.py
+	+ **binomial distribution**
+- 016.MPRT.py
+	+ **re.finditer give the iterator & lookahead assertion (r'(?=)')**
