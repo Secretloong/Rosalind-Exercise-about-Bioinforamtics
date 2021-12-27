@@ -15,3 +15,5 @@ I found there were many awesome solutions on Rosalind. I will list problems with
 	+ **re.finditer give the iterator & lookahead assertion (r'(?=)')**
 - 024.LGIS.py
 	+ **longest-increasing-subsequence/Patience Sort**
+- 025.LONG.py
+	+ **ingenious ideas**
