@@ -17,3 +17,5 @@ I found there were many awesome solutions on Rosalind. I will list problems with
 	+ **longest-increasing-subsequence/Patience Sort**
 - 025.LONG.py
 	+ **ingenious ideas**
+- 033.CAT.py
+	+ **memorizer && dynamic programming**
